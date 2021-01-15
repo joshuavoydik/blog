@@ -1,10 +1,9 @@
 theme: minima
 
 siteConfig:
+  header: Joshua Voydik 
   url: https://example.com
-  author: Author of This Site
-  email: author@your-domain.com
-  description: Welcome to my blog. 
+  description:
 
 themeConfig:
   nav:

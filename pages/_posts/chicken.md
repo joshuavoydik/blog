@@ -1,5 +1,5 @@
 ---
-title: My Example Post
+title: Chicken
 date: 2016-05-20
 layout: post
 ---
