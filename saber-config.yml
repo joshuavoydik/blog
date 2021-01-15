@@ -13,9 +13,7 @@ themeConfig:
     - text: About
       link: /about.html
   social:
-    twitter: saber_land
-    github: egoist
-    rss: true
+    twitter: joshuavoydik
 
 plugins:
   - resolve: saber-plugin-query-posts
