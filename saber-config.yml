@@ -4,11 +4,11 @@ siteConfig:
   url: https://example.com
   author: Author of This Site
   email: author@your-domain.com
-  description: Write an awesome description for your new site here. You can edit this line in saber-config.yml. It will appear in your document head meta (for Google search results) site description.
+  description: Welcome to my blog. 
 
 themeConfig:
   nav:
-    - text: Home
+    - text:
       link: /
     - text: About
       link: /about.html
