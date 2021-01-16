@@ -2,8 +2,8 @@ theme: minima
 
 siteConfig:
   title: Joshua Voydik
-  url: https://example.com
-  description: hello
+  url: https://joshuavoydik.com 
+  description: /
 
 themeConfig:
   nav:
