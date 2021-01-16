@@ -2,14 +2,14 @@ theme: minima
 
 siteConfig:
   title:   ㅤ
-  author: Joshua Voydik   ㅤ
+  author:   ㅤ
   description:  ㅤ
 
 themeConfig:
   nav:
     - text:
       link: /
-    - text: About
+    - text: About me
       link: /about.html
   social:
     twitter: joshuavoydik
