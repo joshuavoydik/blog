@@ -2,7 +2,7 @@ theme: minima
 
 siteConfig:
   title: Joshua Voydik
-  description:
+  description: Hello! Welcome to my blog. I write about tech, startups, philosophy, science, and more. Sign up for my email list if you'd like posts to your email.
   email: voydik@gmail.com
 
 themeConfig:
@@ -14,8 +14,6 @@ themeConfig:
   social:
     twitter: joshuavoydik
     linkedin: joshvoydik
-  footer:
-    text: hello 
 
 plugins:
   - resolve: saber-plugin-query-posts
