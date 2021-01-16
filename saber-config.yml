@@ -1,10 +1,9 @@
 theme: minima
 
 siteConfig:
-  title: Joshua Voydik 
-  header: Joshua Voydik
+  title: Joshua Voydik
   url: https://example.com
-  description: hello
+  description:
 
 themeConfig:
   nav:
@@ -17,6 +16,5 @@ themeConfig:
 
 plugins:
   - resolve: saber-plugin-query-posts
-  - resolve: saber-plugin-feed
     options:
       atomFeed: true
