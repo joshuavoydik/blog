@@ -1,9 +1,10 @@
 theme: minima
 
 siteConfig:
+  title: Joshua Voydik 
   header: Joshua Voydik
   url: https://example.com
-  description: hello 
+  description: hello
 
 themeConfig:
   nav:
