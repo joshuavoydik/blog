@@ -2,7 +2,8 @@ theme: minima
 
 siteConfig:
   title: Joshua Voydik
-  description:  ㅤ     
+  author:   ㅤ     
+  description:  ㅤ
 
 themeConfig:
   nav:
