@@ -6,14 +6,15 @@ siteConfig:
   description:  ㅤ
 
 themeConfig:
+  social:
+    twitter: joshuavoydik
+    linkedin: joshvoydik
   nav:
     - text:
       link: /
     - text: About me
       link: /about.html
-  social:
-    twitter: joshuavoydik
-    linkedin: joshvoydik
+
 
 plugins:
   - resolve: saber-plugin-query-posts
