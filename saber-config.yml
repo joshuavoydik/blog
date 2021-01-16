@@ -4,7 +4,6 @@ siteConfig:
   title: Joshua Voydik
   url: https://example.com
   description: hello
-  footer: hello
 
 themeConfig:
   nav:
@@ -14,6 +13,7 @@ themeConfig:
       link: /about.html
   social:
     twitter: joshuavoydik
+    linkedin: joshvoydik
 
 plugins:
   - resolve: saber-plugin-query-posts
