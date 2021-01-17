@@ -4,6 +4,8 @@ siteConfig:
   title: Joshua Voydik
   author:   ㅤ
   description:  ㅤ
+  footer:
+    copyright: 
 
 themeConfig:
   social:
