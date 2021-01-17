@@ -1,18 +1,17 @@
 theme: minima
 
 siteConfig:
-  title: Joshua Voydik
-  author:   ㅤ
+  title:
+  author: Joshua Voydik
+  email: joshua@swell.isㅤ
   description:  ㅤ
-  footer:
-    copyright: 
 
 themeConfig:
   social:
     twitter: joshuavoydik
     linkedin: joshvoydik
   nav:
-    - text:
+    - text: Home
       link: /
     - text: About me
       link: /about.html
