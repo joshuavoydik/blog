@@ -9,5 +9,8 @@
     "saber-theme-minima": "latest",
     "saber-plugin-feed": "latest",
     "saber-plugin-query-posts": "latest"
+  },
+  "dependencies": {
+    "darkmode-js": "^1.5.7"
   }
 }
